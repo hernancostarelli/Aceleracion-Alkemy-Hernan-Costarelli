@@ -1,3 +1,17 @@
+# Proyecto ONG - Somos Más
+
+Situación inicial 📍
+Somos un equipo de desarrollo y nuestro líder técnico nos comparte el pedido de un
+cliente nuevo que está buscando nuestra ayuda. El pedido lo hizo Marita, la
+Directora de la ONG Somos Más, que está buscando desarrollar un sitio web para
+su organización.
+Marita y su equipo buscan que el sitio web funcione como carta de presentación,
+medio de contacto, y que les permita participar del concurso “Juntos por el Cambio
+Social”. Dicho concurso es organizado por una reconocida institución universitaria
+de Córdoba, Argentina, y el premio les permitiría ayudar a 150 familias extra por, al
+menos, los próximos 12 meses. Sin embargo, es requisito obligatorio para participar
+del concurso, incluir el link a un sitio web para dar visibilidad a su trabajo.
+
 # OT210-JAVA: ONG PROJECT
 
 ## Build and Run
